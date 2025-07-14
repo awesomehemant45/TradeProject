@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1683       1    1683       8176  cons0     197609 20:48:24 /usr/bin/bash
+     1682    1681    1681      15864  ?         197609 20:42:46 /c/Users/lenovo/AppData/Local/Programs/Microsoft VS Code/Code
+     1754    1683    1754        336  cons0     197609 20:48:53 /usr/bin/PS
+     1681       1    1681      27572  ?         197609 20:42:46 /usr/bin/sh
